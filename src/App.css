@@ -1,0 +1,15 @@
+.nodes, .texto{
+  transform: translate(0, 250px);
+}
+
+.dashBoard_component{
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 25vh;
+  border: 1px solid black;
+}
+
+.loadData_components{
+  border: 1px solid gray;
+}
