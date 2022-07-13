@@ -2,7 +2,8 @@
 
 Upload a csv file to graph data that has a group in column A and it matches it with Column B 
 
-![coolr image](img/screenshot.png)
+![CSV visuals d3js Graph](https://user-images.githubusercontent.com/15222073/178625029-3e5427ee-4191-4e5d-8b37-6889f9236a78.jpg)
+
 ## Available Scripts
 
 In the project directory, you can run:
