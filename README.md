@@ -2,7 +2,7 @@
 
 Upload a csv file to graph data that has a group in column A and it matches it with Column B 
 
-![coolr image](img/screenshot.png)
+![coolr image](img/screenshot.jpg)
 
 
 ## Visualization Project
