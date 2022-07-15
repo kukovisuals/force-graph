@@ -3,6 +3,16 @@
 Upload a csv file to graph data that has a group in column A and it matches it with Column B 
 
 ![coolr image](img/screenshot.png)
+
+
+## Visualization Project
+
+- A client needed a visualization where they could group an element and see how that certain element was impacting the organization.
+
+- The difference in color and size depens on the different fields they wanted to visualize.
+
+- I made a dashboard where the user could enter different fields for the data
+
 ## Available Scripts
 
 In the project directory, you can run:
